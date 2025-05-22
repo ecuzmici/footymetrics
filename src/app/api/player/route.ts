@@ -1,53 +1,59 @@
+// app/api/player/route.ts
 import { NextRequest, NextResponse } from 'next/server'
-
-export interface Player {
-  id: number
-  common_name: string
-  name: string
-  display_name: string
-  image_path: string
-  height: number
-  weight: number
-  date_of_birth: string
-}
-
-export interface PlayerApiResponse {
-  data: Player[]
-}
+import { createServerSupabaseClient } from '../../utils/supabase/server';
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url)
   const name = searchParams.get('name')?.trim()
 
   if (!name) {
-    return NextResponse.json(
-      { error: 'Missing “name” query parameter' },
-      { status: 400 }
-    )
+    return NextResponse.json({ error: 'Missing “name” parameter' }, { status: 400 })
   }
 
-  const token = process.env.SPORTMONKS_TOKEN
-  const url = `https://api.sportmonks.com/v3/football/players/search/${encodeURIComponent(
-    name
-  )}?api_token=${token}`
+  // createSupabase
+  const supabase = createServerSupabaseClient()
 
-  try {
-    const res = await fetch(url)
-    if (!res.ok) {
-      // forward status + message
-      return NextResponse.json(
-        { error: `Sportmonks API error (${res.status})` },
-        { status: res.status }
+  // query the players table and join on teams & types
+  const { data, error } = await supabase
+    .from('players')
+    .select(`
+      id,
+      common_name,
+      firstname,
+      lastname,
+      name,
+      display_name,
+      image_path,
+      height,
+      weight,
+      date_of_birth,
+      gender,
+
+      player_teams (
+        jersey_number,
+        team:teams (
+          id,
+          name,
+          short_code
+        )
+      ),
+
+      position:types!fk_players_position (
+        id,
+        name
+      ),
+      detailed_position:types!fk_players_detailed (
+        id,
+        name
       )
-    }
-    const json = await res.json()
+    `)
+    .ilike('name', `%${name}%`)
+    .limit(1)
 
-    // return the raw Sportmonks payload (or json.data if you only want the array)
-    return NextResponse.json(json)
-  } catch (err) {
-    return NextResponse.json(
-      { error: (err as Error).message },
-      { status: 502 }
-    )
+  if (error) {
+    console.error('Supabase GET /api/player error:', error)
+    return NextResponse.json({ error: error.message }, { status: 500 })
   }
+
+  return NextResponse.json(data)
 }

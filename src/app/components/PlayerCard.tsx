@@ -11,15 +11,37 @@ import {
 import { Avatar, AvatarImage } from '@/components/ui/avatar'
 import { Label } from '@/components/ui/label'
 
+export interface TeamInfo {
+  id: number
+  name: string
+  short_code: string
+}
+
+export interface PlayerTeam {
+  team: TeamInfo
+  jersey_number: number | null
+}
+
+export interface PositionInfo {
+  id: number
+  name: string
+}
+
 export interface Player {
   id: number
   common_name: string
+  firstname: string
+  lastname: string
   name: string
   display_name: string
   image_path: string
-  height: number
-  weight: number
-  date_of_birth: string
+  height: number | null
+  weight: number | null
+  date_of_birth: string | null
+  gender: string
+  player_teams: PlayerTeam[]
+  position: PositionInfo
+  detailed_position: PositionInfo
 }
 
 interface PlayerCardProps {
@@ -27,10 +49,14 @@ interface PlayerCardProps {
 }
 
 export default function PlayerCard({ player }: PlayerCardProps) {
-  const dob = new Date(player.date_of_birth).toLocaleDateString()
+  const dob = player.date_of_birth
+    ? new Date(player.date_of_birth).toLocaleDateString()
+    : '-'
+
+  const mainTeam = player.player_teams[0]
 
   return (
-    <Card className="w-full bg-gray-800 border border-gray-700 shadow-lg mb-8">
+    <Card className="w-full max-w-md bg-gray-800 border border-gray-700 shadow-lg mb-8">
       <CardHeader className="flex items-center space-x-4 p-6">
         <Avatar className="w-24 h-24">
           <AvatarImage
@@ -53,19 +79,40 @@ export default function PlayerCard({ player }: PlayerCardProps) {
         {[
           ['Full Name', player.name],
           ['Date of Birth', dob],
-          ['Height', `${player.height ?? '-' } cm`],
-          ['Weight', `${player.weight ?? '-' } kg`],
+          ['Height', player.height ? `${player.height} cm` : '-'],
+          ['Weight', player.weight ? `${player.weight} kg` : '-'],
+          ['Position', player.position?.name || '-'],
+          ['Role', player.detailed_position?.name || '-'],
         ].map(([label, value]) => (
           <div key={label}>
-            <p className="text-xs uppercase text-gray-500">{label}</p>
+            <Label className="text-xs uppercase text-gray-500">
+              {label}
+            </Label>
             <p className="mt-1 text-base text-white">{value}</p>
           </div>
         ))}
       </CardContent>
 
-      <CardFooter className="px-6 py-4 border-t border-gray-700 text-sm text-gray-400">
-        Test • 2
-      </CardFooter>
+      {mainTeam && (
+        <CardFooter className="flex items-center justify-between px-6 py-4 border-t border-gray-700">
+          <div>
+            <Label className="text-xs uppercase text-gray-500">
+              Team
+            </Label>
+            <p className="mt-1 text-white">
+              {mainTeam.team.name} ({mainTeam.team.short_code})
+            </p>
+          </div>
+          <div className="text-right">
+            <Label className="text-xs uppercase text-gray-500">
+              Jersey #
+            </Label>
+            <p className="mt-1 text-white">
+              {mainTeam.jersey_number ?? '-'}
+            </p>
+          </div>
+        </CardFooter>
+      )}
     </Card>
   )
 }

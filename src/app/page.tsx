@@ -4,7 +4,6 @@
 import { useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import React from 'react';
-import { PlayerApiResponse } from './api/player/route';
 import PlayerCard from './components/PlayerCard';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -18,7 +17,7 @@ async function fetchPlayerByName({ queryKey }: { queryKey: any[] }) {
     const err = await res.json().catch(() => ({}))
     throw new Error(err.error || 'Failed to fetch player')
   }
-  return (await res.json()) as PlayerApiResponse
+  return (await res.json())
 }
 
 
@@ -36,7 +35,7 @@ export default function Page() {
     if (name.trim()) refetch()
   }
 
-  const player = data?.data?.[0]
+  const player = data?.[0]
 
   return (
     <main className="min-h-screen bg-gray-950 flex items-center justify-center p-8">
