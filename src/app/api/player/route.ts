@@ -5,6 +5,7 @@ import { createServerSupabaseClient } from '../../utils/supabase/server';
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url)
   const name = searchParams.get('name')?.trim()
+  const limit = Number(searchParams.get('limit')) || 1
 
   if (!name) {
     return NextResponse.json({ error: 'Missing “name” parameter' }, { status: 400 })
@@ -48,7 +49,7 @@ export async function GET(request: NextRequest) {
       )
     `)
     .ilike('name', `%${name}%`)
-    .limit(1)
+    .limit(limit)
 
   if (error) {
     console.error('Supabase GET /api/player error:', error)
