@@ -1,5 +1,6 @@
 'use client'
 
+import { useState, useEffect } from 'react'
 import {
   Card,
   CardHeader,
@@ -44,16 +45,46 @@ export interface Player {
   detailed_position: PositionInfo
 }
 
+interface PlayerStatisticDetail {
+  id: number
+  type_id: number
+  value: Record<string, any>
+  stat_type: {
+    developer_name: string
+  }
+}
+
+interface PlayerStatistic {
+  id: number
+  team_id: number
+  jersey_number: number | null
+  player_statistic_details: PlayerStatisticDetail[]
+}
+
 interface PlayerCardProps {
   player: Player
 }
 
 export default function PlayerCard({ player }: PlayerCardProps) {
+  const [stats, setStats] = useState<PlayerStatistic[]>([])
   const dob = player.date_of_birth
     ? new Date(player.date_of_birth).toLocaleDateString()
     : '-'
-
   const mainTeam = player.player_teams[0]
+
+  useEffect(() => {
+    async function fetchStats() {
+      try {
+        const res = await fetch(`/api/player/${player.id}/stats`)
+        if (!res.ok) throw new Error('Failed to fetch stats')
+        const data: PlayerStatistic[] = await res.json()
+        setStats(data)
+      } catch (e) {
+        console.error(e)
+      }
+    }
+    fetchStats()
+  }, [player.id])
 
   return (
     <Card className="w-full max-w-md bg-gray-800 border border-gray-700 shadow-lg mb-8">
@@ -112,6 +143,38 @@ export default function PlayerCard({ player }: PlayerCardProps) {
             </p>
           </div>
         </CardFooter>
+      )}
+
+      {stats.length > 0 && (
+        <CardContent className="px-6 py-4 border-t border-gray-700">
+          <Label className="text-xs uppercase text-gray-500 mb-2 block">
+            Selected Statistics
+          </Label>
+          <div className="space-y-4">
+            {stats.map((stat) => (
+              <div
+                key={stat.id}
+                className="bg-gray-700 p-4 rounded-lg"
+              >
+                <p className="text-sm text-white font-semibold mb-2">
+                  Team ID: {stat.team_id} &nbsp;|&nbsp; Jersey: {stat.jersey_number ?? '-'}
+                </p>
+                <ul className="list-disc list-inside text-gray-300 text-sm space-y-1">
+                  {stat.player_statistic_details.map((detail) => (
+                    <li key={detail.id}>
+                      <span className="font-medium text-white">
+                        {detail.stat_type.developer_name}:
+                      </span>{' '}
+                      {Object.entries(detail.value)
+                        .map(([k, v]) => `${k}=${v}`)
+                        .join(', ')}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </CardContent>
       )}
     </Card>
   )
