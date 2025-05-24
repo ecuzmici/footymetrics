@@ -11,6 +11,15 @@ import {
 } from '@/components/ui/card'
 import { Avatar, AvatarImage } from '@/components/ui/avatar'
 import { Label } from '@/components/ui/label'
+import {
+  Table,
+  TableBody,
+  TableCaption,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from '@/components/ui/table'
 
 export interface TeamInfo {
   id: number
@@ -50,7 +59,7 @@ interface PlayerStatisticDetail {
   type_id: number
   value: Record<string, any>
   stat_type: {
-    developer_name: string
+    name: string
   }
 }
 
@@ -87,7 +96,7 @@ export default function PlayerCard({ player }: PlayerCardProps) {
   }, [player.id])
 
   return (
-    <Card className="w-full max-w-md bg-gray-800 border border-gray-700 shadow-lg mb-8">
+    <Card className="w-full max-w-2xl bg-gray-800 border border-gray-700 shadow-lg mb-8">
       <CardHeader className="flex items-center space-x-4 p-6">
         <Avatar className="w-24 h-24">
           <AvatarImage
@@ -116,9 +125,7 @@ export default function PlayerCard({ player }: PlayerCardProps) {
           ['Role', player.detailed_position?.name || '-'],
         ].map(([label, value]) => (
           <div key={label}>
-            <Label className="text-xs uppercase text-gray-500">
-              {label}
-            </Label>
+            <Label className="text-xs uppercase text-gray-500">{label}</Label>
             <p className="mt-1 text-base text-white">{value}</p>
           </div>
         ))}
@@ -127,20 +134,14 @@ export default function PlayerCard({ player }: PlayerCardProps) {
       {mainTeam && (
         <CardFooter className="flex items-center justify-between px-6 py-4 border-t border-gray-700">
           <div>
-            <Label className="text-xs uppercase text-gray-500">
-              Team
-            </Label>
+            <Label className="text-xs uppercase text-gray-500">Team</Label>
             <p className="mt-1 text-white">
               {mainTeam.team.name} ({mainTeam.team.short_code})
             </p>
           </div>
           <div className="text-right">
-            <Label className="text-xs uppercase text-gray-500">
-              Jersey #
-            </Label>
-            <p className="mt-1 text-white">
-              {mainTeam.jersey_number ?? '-'}
-            </p>
+            <Label className="text-xs uppercase text-gray-500">Jersey #</Label>
+            <p className="mt-1 text-white">{mainTeam.jersey_number ?? '-'}</p>
           </div>
         </CardFooter>
       )}
@@ -148,17 +149,60 @@ export default function PlayerCard({ player }: PlayerCardProps) {
       {stats.length > 0 && (
         <CardContent className="px-6 py-4 border-t border-gray-700">
           <Label className="text-xs uppercase text-gray-500 mb-2 block">
+            General Statistics
+          </Label>
+
+          {(() => {
+            const details = stats[0].player_statistic_details
+            if (!details.length) {
+              return <p className="text-gray-400">No stats available.</p>
+            }
+
+            return (
+              <div className="overflow-x-auto">
+                <Table className="w-full border border-gray-600 rounded-sm overflow-hidden">
+                  <TableHeader className="bg-gray-700">
+                    <TableRow className="border-b border-gray-600">
+                      {details.map((d) => (
+                        <TableHead
+                          key={d.id}
+                          className="text-gray-300 text-center px-2 py-1 border-r border-gray-600 last:border-r-0"
+                        >
+                          {d.stat_type.name}
+                        </TableHead>
+                      ))}
+                    </TableRow>
+                  </TableHeader>
+                  <TableBody>
+                    <TableRow className="bg-gray-800">
+                      {details.map((d) => {
+                        const display = d.value['total'] ?? d.value['average']
+                        return (
+                          <TableCell
+                            key={d.id}
+                            className="text-white text-center px-2 py-1 border-r border-gray-600 last:border-r-0"
+                          >
+                            {display}
+                          </TableCell>
+                        )
+                      })}
+                    </TableRow>
+                  </TableBody>
+                </Table>
+              </div>
+            )
+          })()}
+        </CardContent>
+      )}
+
+      {/* {stats.length > 0 && (
+        <CardContent className="px-6 py-4 border-t border-gray-700">
+          <Label className="text-xs uppercase text-gray-500 mb-2 block">
             Selected Statistics
           </Label>
           <div className="space-y-4">
             {stats.map((stat) => (
-              <div
-                key={stat.id}
-                className="bg-gray-700 p-4 rounded-lg"
-              >
-                <p className="text-sm text-white font-semibold mb-2">
-                  Team ID: {stat.team_id} &nbsp;|&nbsp; Jersey: {stat.jersey_number ?? '-'}
-                </p>
+              <div key={stat.id} className="bg-gray-700 p-4 rounded-lg">
                 <ul className="list-disc list-inside text-gray-300 text-sm space-y-1">
                   {stat.player_statistic_details.map((detail) => (
                     <li key={detail.id}>
@@ -175,7 +219,7 @@ export default function PlayerCard({ player }: PlayerCardProps) {
             ))}
           </div>
         </CardContent>
-      )}
+      )} */}
     </Card>
   )
 }

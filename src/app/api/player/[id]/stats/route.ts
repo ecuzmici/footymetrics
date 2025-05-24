@@ -30,7 +30,7 @@ export async function GET(
         type_id,
         value,
         stat_type:types!player_statistic_details_type_id_fkey(
-          developer_name
+          name
         )
       )
     `)

@@ -1,0 +1,6770 @@
+[
+  {
+    "id": 1370995139,
+    "player_id": 378629,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 39
+  },
+  {
+    "id": 1535138704,
+    "player_id": 37544304,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 42
+  },
+  {
+    "id": 1324088973,
+    "player_id": 109417,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1532367076,
+    "player_id": 3478,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 21
+  },
+  {
+    "id": 1649859064,
+    "player_id": 37581714,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 57
+  },
+  {
+    "id": 1691091556,
+    "player_id": 37544306,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 61
+  },
+  {
+    "id": 1463830691,
+    "player_id": 31532,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324088969,
+    "player_id": 254052,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324088971,
+    "player_id": 220052,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1467013781,
+    "player_id": 254081,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324088966,
+    "player_id": 1155,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1534613973,
+    "player_id": 1155,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324088981,
+    "player_id": 1261,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1532367098,
+    "player_id": 37679255,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324088980,
+    "player_id": 95393,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324088963,
+    "player_id": 5640849,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1377597705,
+    "player_id": 498161,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1484447548,
+    "player_id": 5252,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324088958,
+    "player_id": 1592,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 20
+  },
+  {
+    "id": 1459763770,
+    "player_id": 9939203,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1718824437,
+    "player_id": 37253456,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089515,
+    "player_id": 37253456,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324088961,
+    "player_id": 1450,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324088976,
+    "player_id": 1922,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1673579689,
+    "player_id": 37672209,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 63
+  },
+  {
+    "id": 1324088977,
+    "player_id": 733,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324088974,
+    "player_id": 129794,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1535133461,
+    "player_id": 186968,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324088975,
+    "player_id": 80655,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324088957,
+    "player_id": 80304,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1477769093,
+    "player_id": 529856,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 25
+  },
+  {
+    "id": 1532366836,
+    "player_id": 37391514,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 45
+  },
+  {
+    "id": 1674707058,
+    "player_id": 37728388,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 78
+  },
+  {
+    "id": 1718231116,
+    "player_id": 33079,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324088993,
+    "player_id": 380886,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324088989,
+    "player_id": 96870,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1477769095,
+    "player_id": 4203,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324088988,
+    "player_id": 4313,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1370995199,
+    "player_id": 7026573,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089002,
+    "player_id": 25930790,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089010,
+    "player_id": 37342694,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324088987,
+    "player_id": 333797,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 30
+  },
+  {
+    "id": 1591226355,
+    "player_id": 37651099,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 47
+  },
+  {
+    "id": 1324089000,
+    "player_id": 540476,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 40
+  },
+  {
+    "id": 1712207941,
+    "player_id": 37624646,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 63
+  },
+  {
+    "id": 1324089007,
+    "player_id": 333731,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 17
+  },
+  {
+    "id": 1703371463,
+    "player_id": 37700504,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1690360990,
+    "player_id": 37565269,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 48
+  },
+  {
+    "id": 1690360991,
+    "player_id": 37656695,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 74
+  },
+  {
+    "id": 1324088999,
+    "player_id": 14338024,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089005,
+    "player_id": 8456257,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324088984,
+    "player_id": 37296248,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324088995,
+    "player_id": 32777506,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 13
+  },
+  {
+    "id": 1665408382,
+    "player_id": 37651089,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 64
+  },
+  {
+    "id": 1665408383,
+    "player_id": 37728386,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 79
+  },
+  {
+    "id": 1324088996,
+    "player_id": 1241,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 20
+  },
+  {
+    "id": 1370995229,
+    "player_id": 37581741,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324088986,
+    "player_id": 989,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1605714487,
+    "player_id": 37565524,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 42
+  },
+  {
+    "id": 1719292906,
+    "player_id": 37531504,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324088994,
+    "player_id": 23715982,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089001,
+    "player_id": 31823,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089006,
+    "player_id": 6838,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1790965750,
+    "player_id": 37661394,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 74
+  },
+  {
+    "id": 1370995233,
+    "player_id": 37607151,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 15
+  },
+  {
+    "id": 1705492432,
+    "player_id": 37430162,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1494779265,
+    "player_id": 37593240,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 28
+  },
+  {
+    "id": 1718231755,
+    "player_id": 37392970,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 59
+  },
+  {
+    "id": 1712855641,
+    "player_id": 37259210,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 44
+  },
+  {
+    "id": 1324089004,
+    "player_id": 133779,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089009,
+    "player_id": 340346,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 41
+  },
+  {
+    "id": 1324088985,
+    "player_id": 219633,
+    "team_id": 6,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1532367027,
+    "player_id": 129836,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089013,
+    "player_id": 100556,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089038,
+    "player_id": 30062,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089039,
+    "player_id": 37259163,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 78
+  },
+  {
+    "id": 1324089034,
+    "player_id": 37316835,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 84
+  },
+  {
+    "id": 1674707542,
+    "player_id": 37669492,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 98
+  },
+  {
+    "id": 1635044475,
+    "player_id": 37316834,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 95
+  },
+  {
+    "id": 1677856273,
+    "player_id": 37682555,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 65
+  },
+  {
+    "id": 1429697901,
+    "player_id": 9606060,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 56
+  },
+  {
+    "id": 1702098535,
+    "player_id": 37573827,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 76
+  },
+  {
+    "id": 1702098534,
+    "player_id": 37543607,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 53
+  },
+  {
+    "id": 1324089036,
+    "player_id": 1453,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089028,
+    "player_id": 896225,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 62
+  },
+  {
+    "id": 1612770320,
+    "player_id": 37316836,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 80
+  },
+  {
+    "id": 1324089026,
+    "player_id": 159917,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089018,
+    "player_id": 23269836,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089024,
+    "player_id": 4125,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089022,
+    "player_id": 5270462,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 38
+  },
+  {
+    "id": 1324089032,
+    "player_id": 6013424,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089015,
+    "player_id": 1743,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089042,
+    "player_id": 216612,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089031,
+    "player_id": 309344,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089037,
+    "player_id": 785998,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089012,
+    "player_id": 241036,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089021,
+    "player_id": 4545513,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089023,
+    "player_id": 84627,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089017,
+    "player_id": 129820,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089016,
+    "player_id": 1917,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 66
+  },
+  {
+    "id": 1324089025,
+    "player_id": 1078,
+    "team_id": 8,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1324089068,
+    "player_id": 28575676,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 87
+  },
+  {
+    "id": 1497720317,
+    "player_id": 37562487,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 75
+  },
+  {
+    "id": 1324089060,
+    "player_id": 37459073,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 82
+  },
+  {
+    "id": 1324089057,
+    "player_id": 1116,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089055,
+    "player_id": 24838191,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089059,
+    "player_id": 37286732,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 52
+  },
+  {
+    "id": 1324089049,
+    "player_id": 198062,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089053,
+    "player_id": 1371,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089052,
+    "player_id": 159142,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089048,
+    "player_id": 21781428,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1514195724,
+    "player_id": 4842,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1690360979,
+    "player_id": 37365883,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 67
+  },
+  {
+    "id": 1324089046,
+    "player_id": 34594,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 18
+  },
+  {
+    "id": 1702679272,
+    "player_id": 37639080,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 26,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089067,
+    "player_id": 30446925,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 78
+  },
+  {
+    "id": 1324089043,
+    "player_id": 105,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 33
+  },
+  {
+    "id": 1641853214,
+    "player_id": 37612626,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 56
+  },
+  {
+    "id": 1699139249,
+    "player_id": 37713480,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 80
+  },
+  {
+    "id": 1699139250,
+    "player_id": 37548599,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 68
+  },
+  {
+    "id": 1324089045,
+    "player_id": 911,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089065,
+    "player_id": 982,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1710173806,
+    "player_id": 37679253,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 66
+  },
+  {
+    "id": 1712875586,
+    "player_id": 37689559,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089050,
+    "player_id": 1869,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089064,
+    "player_id": 24838234,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 97
+  },
+  {
+    "id": 1324089054,
+    "player_id": 186910,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089058,
+    "player_id": 336133,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 47
+  },
+  {
+    "id": 1324089056,
+    "player_id": 73147,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089044,
+    "player_id": 96353,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1719293044,
+    "player_id": 23269737,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 14
+  },
+  {
+    "id": 1713566555,
+    "player_id": 294000,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1414213018,
+    "player_id": 37527169,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 26
+  },
+  {
+    "id": 1324089062,
+    "player_id": 154421,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089063,
+    "player_id": 23697990,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1712875591,
+    "player_id": 37623459,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 45
+  },
+  {
+    "id": 1324089051,
+    "player_id": 162536,
+    "team_id": 9,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1674707059,
+    "player_id": 37654108,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 35
+  },
+  {
+    "id": 1682273998,
+    "player_id": 37622796,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 47
+  },
+  {
+    "id": 1723298853,
+    "player_id": 1317,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1358279863,
+    "player_id": 463153,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 12
+  },
+  {
+    "id": 1324089076,
+    "player_id": 62337,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089089,
+    "player_id": 37402350,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1535132993,
+    "player_id": 537759,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089244,
+    "player_id": 537759,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089069,
+    "player_id": 130248,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1459763772,
+    "player_id": 784373,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1496017222,
+    "player_id": 37656924,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089070,
+    "player_id": 4241,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089074,
+    "player_id": 5403,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089091,
+    "player_id": 25400,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089072,
+    "player_id": 2285,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1532367020,
+    "player_id": 64193,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089084,
+    "player_id": 37259158,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324089081,
+    "player_id": 455687,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 23
+  },
+  {
+    "id": 1438310301,
+    "player_id": 6610,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089073,
+    "player_id": 581067,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1324089090,
+    "player_id": 31342,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089093,
+    "player_id": 1409,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1458050280,
+    "player_id": 1494446,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089086,
+    "player_id": 1004,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089078,
+    "player_id": 1881,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089088,
+    "player_id": 96799,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089077,
+    "player_id": 540027,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089079,
+    "player_id": 160217,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1532367011,
+    "player_id": 25284,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089351,
+    "player_id": 25284,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1370995207,
+    "player_id": 37259239,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 42
+  },
+  {
+    "id": 1324089104,
+    "player_id": 37587573,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1649859065,
+    "player_id": 37624650,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 92
+  },
+  {
+    "id": 1732223231,
+    "player_id": 37596063,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 84
+  },
+  {
+    "id": 1496618428,
+    "player_id": 37680389,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 45
+  },
+  {
+    "id": 1710456933,
+    "player_id": 37581746,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 67
+  },
+  {
+    "id": 1324089105,
+    "player_id": 37260638,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1532366999,
+    "player_id": 681,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1535132996,
+    "player_id": 23697427,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1729456283,
+    "player_id": 37551413,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 83
+  },
+  {
+    "id": 1324089111,
+    "player_id": 1639,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1436473309,
+    "player_id": 22146099,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 29
+  },
+  {
+    "id": 1719293048,
+    "player_id": 37410255,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1358283980,
+    "player_id": 37410255,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089108,
+    "player_id": 4536524,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324089116,
+    "player_id": 1030,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1370995217,
+    "player_id": 23661272,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089096,
+    "player_id": 165,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089101,
+    "player_id": 5141,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089097,
+    "player_id": 1826,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089098,
+    "player_id": 2144,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089117,
+    "player_id": 764,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089099,
+    "player_id": 881,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1447557247,
+    "player_id": 37528754,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1342298166,
+    "player_id": 262274,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089106,
+    "player_id": 21773178,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089109,
+    "player_id": 32404895,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089102,
+    "player_id": 537271,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 19
+  },
+  {
+    "id": 1515859800,
+    "player_id": 37614480,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 75
+  },
+  {
+    "id": 1534612913,
+    "player_id": 523939,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089112,
+    "player_id": 539969,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 12
+  },
+  {
+    "id": 1324089115,
+    "player_id": 1692,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089114,
+    "player_id": 4598726,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1358282707,
+    "player_id": 95776,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1496618427,
+    "player_id": 37553446,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 44
+  },
+  {
+    "id": 1642987855,
+    "player_id": 37612634,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 75
+  },
+  {
+    "id": 1324089130,
+    "player_id": 160206,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089120,
+    "player_id": 537121,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 7
+  },
+  {
+    "id": 1486095884,
+    "player_id": 28716,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089118,
+    "player_id": 2884,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089124,
+    "player_id": 992,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 14
+  },
+  {
+    "id": 1718231117,
+    "player_id": 37653176,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 13
+  },
+  {
+    "id": 1324089143,
+    "player_id": 37317015,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 16
+  },
+  {
+    "id": 1717499516,
+    "player_id": 37676786,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1574965878,
+    "player_id": 37676786,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 76
+  },
+  {
+    "id": 1324089140,
+    "player_id": 37316549,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089121,
+    "player_id": 159700,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089137,
+    "player_id": 37540234,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 37
+  },
+  {
+    "id": 1534614133,
+    "player_id": 893705,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089119,
+    "player_id": 26393,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 24
+  },
+  {
+    "id": 1626120557,
+    "player_id": 37654112,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 57
+  },
+  {
+    "id": 1678049113,
+    "player_id": 37718822,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 87
+  },
+  {
+    "id": 1752137335,
+    "player_id": 28912799,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 45
+  },
+  {
+    "id": 1536230450,
+    "player_id": 37625047,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 36
+  },
+  {
+    "id": 1739599945,
+    "player_id": 28912719,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 48
+  },
+  {
+    "id": 1324089146,
+    "player_id": 1454,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089131,
+    "player_id": 438751,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1532367128,
+    "player_id": 37600357,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1635044424,
+    "player_id": 37675777,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 41
+  },
+  {
+    "id": 1324089127,
+    "player_id": 129602,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1733298525,
+    "player_id": 37602508,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 64
+  },
+  {
+    "id": 1733298522,
+    "player_id": 37693993,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 42
+  },
+  {
+    "id": 1324089142,
+    "player_id": 12393293,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089129,
+    "player_id": 37325012,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089139,
+    "player_id": 2206665,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1399279752,
+    "player_id": 9605680,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089145,
+    "player_id": 164061,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089138,
+    "player_id": 2158417,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1718231758,
+    "player_id": 37648158,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 50
+  },
+  {
+    "id": 1324089123,
+    "player_id": 1878,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1718448959,
+    "player_id": 1878,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1478874184,
+    "player_id": 30851415,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 43
+  },
+  {
+    "id": 1486095882,
+    "player_id": 26768,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1733298524,
+    "player_id": 37723663,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 56
+  },
+  {
+    "id": 1733298523,
+    "player_id": 37581768,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 55
+  },
+  {
+    "id": 1324089125,
+    "player_id": 455376,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 39
+  },
+  {
+    "id": 1324089122,
+    "player_id": 612,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 35
+  },
+  {
+    "id": 1324089136,
+    "player_id": 955,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1705056149,
+    "player_id": 37623462,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 56
+  },
+  {
+    "id": 1712876159,
+    "player_id": 37656468,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089159,
+    "player_id": 186660,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089163,
+    "player_id": 95368,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1324089149,
+    "player_id": 1094,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1370995340,
+    "player_id": 968,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1710168850,
+    "player_id": 537758,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1370995322,
+    "player_id": 23311159,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 22
+  },
+  {
+    "id": 1532362486,
+    "player_id": 37539349,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1423372260,
+    "player_id": 22878573,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089168,
+    "player_id": 1343,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089176,
+    "player_id": 4592198,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1324089166,
+    "player_id": 380970,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089153,
+    "player_id": 11705406,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 41
+  },
+  {
+    "id": 1535138288,
+    "player_id": 37425229,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 48
+  },
+  {
+    "id": 1535138289,
+    "player_id": 37536795,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 50
+  },
+  {
+    "id": 1719726713,
+    "player_id": 100385,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089189,
+    "player_id": 100385,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089123,
+    "player_id": 1878,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1718448959,
+    "player_id": 1878,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089184,
+    "player_id": 84540,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 25
+  },
+  {
+    "id": 1665408246,
+    "player_id": 37651108,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 79
+  },
+  {
+    "id": 1324089154,
+    "player_id": 33716,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089158,
+    "player_id": 6524,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089155,
+    "player_id": 12145,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089151,
+    "player_id": 172611,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089152,
+    "player_id": 7124,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1719288546,
+    "player_id": 186668,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089175,
+    "player_id": 97626,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 44
+  },
+  {
+    "id": 1324089169,
+    "player_id": 96689,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089167,
+    "player_id": 30071882,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1416630815,
+    "player_id": 33186827,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1710669082,
+    "player_id": 33186827,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 29
+  },
+  {
+    "id": 1573926079,
+    "player_id": 37567882,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 72
+  },
+  {
+    "id": 1324089179,
+    "player_id": 6201,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 25,
+    "jersey_number": 30
+  },
+  {
+    "id": 1370995326,
+    "player_id": 37600647,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089177,
+    "player_id": 24092472,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089172,
+    "player_id": 62342,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089204,
+    "player_id": 4545394,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1739637763,
+    "player_id": 37714106,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 76
+  },
+  {
+    "id": 1324089200,
+    "player_id": 28912747,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089197,
+    "player_id": 581000,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1370995271,
+    "player_id": 5241,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089215,
+    "player_id": 448448,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1710287616,
+    "player_id": 537117,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1535133449,
+    "player_id": 537117,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 27
+  },
+  {
+    "id": 1478874182,
+    "player_id": 496775,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089195,
+    "player_id": 29709995,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089187,
+    "player_id": 25217662,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089185,
+    "player_id": 581220,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 24
+  },
+  {
+    "id": 1690360993,
+    "player_id": 37592037,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089186,
+    "player_id": 37261500,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089207,
+    "player_id": 37317367,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 27
+  },
+  {
+    "id": 1370995314,
+    "player_id": 37664041,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 38
+  },
+  {
+    "id": 1752137090,
+    "player_id": 37669515,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 64
+  },
+  {
+    "id": 1703304773,
+    "player_id": 37700784,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 30
+  },
+  {
+    "id": 1449405043,
+    "player_id": 23715941,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 12
+  },
+  {
+    "id": 1719726713,
+    "player_id": 100385,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089189,
+    "player_id": 100385,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089211,
+    "player_id": 37540621,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 15
+  },
+  {
+    "id": 1535649290,
+    "player_id": 538034,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1690360994,
+    "player_id": 37581754,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 51
+  },
+  {
+    "id": 1717499520,
+    "player_id": 37555964,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 27,
+    "jersey_number": null
+  },
+  {
+    "id": 1739637764,
+    "player_id": 37581743,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 62
+  },
+  {
+    "id": 1720238203,
+    "player_id": 37668618,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 39
+  },
+  {
+    "id": 1324089213,
+    "player_id": 37259180,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089202,
+    "player_id": 37536874,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 45
+  },
+  {
+    "id": 1324089190,
+    "player_id": 11311795,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 29
+  },
+  {
+    "id": 1370995278,
+    "player_id": 540613,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 22
+  },
+  {
+    "id": 1396916274,
+    "player_id": 37593154,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 40
+  },
+  {
+    "id": 1690360992,
+    "player_id": 37631362,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 34
+  },
+  {
+    "id": 1331391089,
+    "player_id": 24817084,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 24,
+    "jersey_number": 47
+  },
+  {
+    "id": 1324089191,
+    "player_id": 9938919,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1731680508,
+    "player_id": 37583510,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 26,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324089212,
+    "player_id": 3268,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 13
+  },
+  {
+    "id": 1324089209,
+    "player_id": 37445077,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089214,
+    "player_id": 96884,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1507344887,
+    "player_id": 163152,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 14
+  },
+  {
+    "id": 1717499516,
+    "player_id": 37676786,
+    "team_id": 14,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1574965878,
+    "player_id": 37676786,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 76
+  },
+  {
+    "id": 1574965877,
+    "player_id": 37649361,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 47
+  },
+  {
+    "id": 1574965876,
+    "player_id": 37649368,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 46
+  },
+  {
+    "id": 1716803051,
+    "player_id": 37693553,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 92
+  },
+  {
+    "id": 1770727973,
+    "player_id": 37536916,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 45
+  },
+  {
+    "id": 1324089248,
+    "player_id": 539961,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1535133009,
+    "player_id": 539961,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1535133955,
+    "player_id": 37600439,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 36
+  },
+  {
+    "id": 1535133953,
+    "player_id": 37430352,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 56
+  },
+  {
+    "id": 1604634426,
+    "player_id": 37649362,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 51
+  },
+  {
+    "id": 1535132993,
+    "player_id": 537759,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089244,
+    "player_id": 537759,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089223,
+    "player_id": 310288,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089241,
+    "player_id": 5270466,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1532366905,
+    "player_id": 32710,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 23
+  },
+  {
+    "id": 1782128349,
+    "player_id": 37608812,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 74
+  },
+  {
+    "id": 1535132991,
+    "player_id": 802,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089218,
+    "player_id": 5329,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1764453280,
+    "player_id": 37568806,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 44
+  },
+  {
+    "id": 1324089220,
+    "player_id": 3259,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1372540177,
+    "player_id": 3130,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089222,
+    "player_id": 186370,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089243,
+    "player_id": 5273,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 41
+  },
+  {
+    "id": 1324089238,
+    "player_id": 26823,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1358279509,
+    "player_id": 172960,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089239,
+    "player_id": 16827155,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089224,
+    "player_id": 10959356,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089242,
+    "player_id": 32612,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 29
+  },
+  {
+    "id": 1535133954,
+    "player_id": 37568815,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 49
+  },
+  {
+    "id": 1612237799,
+    "player_id": 28912715,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324089237,
+    "player_id": 26603,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089235,
+    "player_id": 9438,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1533526441,
+    "player_id": 9438,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 30
+  },
+  {
+    "id": 1534612906,
+    "player_id": 128798,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089397,
+    "player_id": 128798,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089245,
+    "player_id": 17544737,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089231,
+    "player_id": 129511,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1496617805,
+    "player_id": 37568808,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 53
+  },
+  {
+    "id": 1324089217,
+    "player_id": 61780,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089240,
+    "player_id": 97811,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1443820933,
+    "player_id": 23278684,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1324089219,
+    "player_id": 8403613,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1324089267,
+    "player_id": 2985,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089272,
+    "player_id": 257663,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089261,
+    "player_id": 34053,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1752676202,
+    "player_id": 37666648,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 78
+  },
+  {
+    "id": 1324089249,
+    "player_id": 7855,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 24,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324089276,
+    "player_id": 1387,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 13
+  },
+  {
+    "id": 1702680402,
+    "player_id": 1494666,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1359441835,
+    "player_id": 37573066,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 37
+  },
+  {
+    "id": 1359440128,
+    "player_id": 37459072,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 20
+  },
+  {
+    "id": 1370995311,
+    "player_id": 7655,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089275,
+    "player_id": 5270468,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1532367036,
+    "player_id": 31892,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089270,
+    "player_id": 9611543,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089253,
+    "player_id": 2823228,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089258,
+    "player_id": 129966,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089259,
+    "player_id": 1065,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089251,
+    "player_id": 32372,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1472315592,
+    "player_id": 37559767,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089255,
+    "player_id": 10601,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089277,
+    "player_id": 37581796,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 67
+  },
+  {
+    "id": 1324089282,
+    "player_id": 3071,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089280,
+    "player_id": 1494447,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324089257,
+    "player_id": 2815,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1370995307,
+    "player_id": 890,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 26
+  },
+  {
+    "id": 1765024594,
+    "player_id": 37594985,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 76
+  },
+  {
+    "id": 1324089281,
+    "player_id": 80889,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089260,
+    "player_id": 1016,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089271,
+    "player_id": 33645,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089273,
+    "player_id": 24799911,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089252,
+    "player_id": 173737,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 36
+  },
+  {
+    "id": 1324089256,
+    "player_id": 459145,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 39
+  },
+  {
+    "id": 1324089274,
+    "player_id": 2763,
+    "team_id": 20,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089295,
+    "player_id": 459653,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1743376881,
+    "player_id": 37738333,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 59
+  },
+  {
+    "id": 1532367106,
+    "player_id": 37729609,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324089317,
+    "player_id": 52868,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1719339175,
+    "player_id": 289398,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 5
+  },
+  {
+    "id": 1370995408,
+    "player_id": 458682,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089293,
+    "player_id": 1846739,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1370995361,
+    "player_id": 37354841,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1708184704,
+    "player_id": 37261923,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1324089291,
+    "player_id": 3301,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089301,
+    "player_id": 186025,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089292,
+    "player_id": 160110,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 22
+  },
+  {
+    "id": 1719293074,
+    "player_id": 37560802,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089316,
+    "player_id": 29303604,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089307,
+    "player_id": 99076,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1706905943,
+    "player_id": 37684782,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 61
+  },
+  {
+    "id": 1359440241,
+    "player_id": 9605714,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1690944599,
+    "player_id": 36084757,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1710198835,
+    "player_id": 37357499,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 28
+  },
+  {
+    "id": 1370995399,
+    "player_id": 160834,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1332361682,
+    "player_id": 23739135,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 34
+  },
+  {
+    "id": 1532367103,
+    "player_id": 37658191,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1665408250,
+    "player_id": 37661374,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 74
+  },
+  {
+    "id": 1604634497,
+    "player_id": 37540689,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 46
+  },
+  {
+    "id": 1699139251,
+    "player_id": 1745,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1534613898,
+    "player_id": 37410636,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 26
+  },
+  {
+    "id": 1358280045,
+    "player_id": 1548028,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089309,
+    "player_id": 3884,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1686248218,
+    "player_id": 37560477,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 27,
+    "jersey_number": null
+  },
+  {
+    "id": 1324089286,
+    "player_id": 6038,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 40
+  },
+  {
+    "id": 1358281251,
+    "player_id": 37400484,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 14
+  },
+  {
+    "id": 1481438725,
+    "player_id": 37655932,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 27,
+    "jersey_number": 30
+  },
+  {
+    "id": 1370995396,
+    "player_id": 37404802,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089287,
+    "player_id": 27422468,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1533526427,
+    "player_id": 1008,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089371,
+    "player_id": 1008,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089298,
+    "player_id": 159483,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1370995388,
+    "player_id": 97692,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324089300,
+    "player_id": 37402348,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089290,
+    "player_id": 96017,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1534614051,
+    "player_id": 37526007,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089289,
+    "player_id": 1183,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1324089313,
+    "player_id": 13590962,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1770727931,
+    "player_id": 37694372,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 77
+  },
+  {
+    "id": 1701970339,
+    "player_id": 37561628,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 57
+  },
+  {
+    "id": 1699735136,
+    "player_id": 37561629,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 37
+  },
+  {
+    "id": 1710451626,
+    "player_id": 524847,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 25
+  },
+  {
+    "id": 1688468916,
+    "player_id": 37561124,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 49
+  },
+  {
+    "id": 1324089334,
+    "player_id": 33991824,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 28
+  },
+  {
+    "id": 1385364217,
+    "player_id": 28176047,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1370995430,
+    "player_id": 32796825,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 16
+  },
+  {
+    "id": 1712528768,
+    "player_id": 37589611,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089339,
+    "player_id": 3282,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089337,
+    "player_id": 6518,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089324,
+    "player_id": 10634,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089319,
+    "player_id": 31129,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089318,
+    "player_id": 23730717,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 30
+  },
+  {
+    "id": 1716333505,
+    "player_id": 173121,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1331391159,
+    "player_id": 10309700,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1331391157,
+    "player_id": 581238,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089321,
+    "player_id": 1182,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089331,
+    "player_id": 96838,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089327,
+    "player_id": 12514,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1531207795,
+    "player_id": 37559109,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 11
+  },
+  {
+    "id": 1515282300,
+    "player_id": 1038,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089372,
+    "player_id": 1038,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1370995433,
+    "player_id": 432912,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1501275545,
+    "player_id": 540579,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 22
+  },
+  {
+    "id": 1770727932,
+    "player_id": 37711703,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 91
+  },
+  {
+    "id": 1324089336,
+    "player_id": 13633370,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 41
+  },
+  {
+    "id": 1324089326,
+    "player_id": 28575743,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 35
+  },
+  {
+    "id": 1324089340,
+    "player_id": 1711,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1768334831,
+    "player_id": 37740614,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 93
+  },
+  {
+    "id": 1360637479,
+    "player_id": 37560897,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089332,
+    "player_id": 55485,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 20
+  },
+  {
+    "id": 1534613921,
+    "player_id": 96792,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 27
+  },
+  {
+    "id": 1324089352,
+    "player_id": 96792,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1501847549,
+    "player_id": 37342596,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1477769100,
+    "player_id": 37568149,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 40
+  },
+  {
+    "id": 1324089333,
+    "player_id": 26955,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089342,
+    "player_id": 3043,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1377598481,
+    "player_id": 3140,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1396916309,
+    "player_id": 5319,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1536230349,
+    "player_id": 37554902,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 42
+  },
+  {
+    "id": 1532367011,
+    "player_id": 25284,
+    "team_id": 11,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089351,
+    "player_id": 25284,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089365,
+    "player_id": 692,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089358,
+    "player_id": 37567285,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089384,
+    "player_id": 96950,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089366,
+    "player_id": 2332,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1612237703,
+    "player_id": 37651069,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 58
+  },
+  {
+    "id": 1649859080,
+    "player_id": 37626915,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 63
+  },
+  {
+    "id": 1370995465,
+    "player_id": 37537937,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089382,
+    "player_id": 1202,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 17
+  },
+  {
+    "id": 1534613921,
+    "player_id": 96792,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 27
+  },
+  {
+    "id": 1324089352,
+    "player_id": 96792,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1515282300,
+    "player_id": 1038,
+    "team_id": 42,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089372,
+    "player_id": 1038,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1536230347,
+    "player_id": 37631792,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 64
+  },
+  {
+    "id": 1533526427,
+    "player_id": 1008,
+    "team_id": 29,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089371,
+    "player_id": 1008,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089373,
+    "player_id": 5640926,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324089377,
+    "player_id": 9278,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1535133006,
+    "player_id": 262551,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089355,
+    "player_id": 37316940,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 29
+  },
+  {
+    "id": 1536230350,
+    "player_id": 37599249,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 46
+  },
+  {
+    "id": 1704617487,
+    "player_id": 37298063,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 27,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089369,
+    "player_id": 927,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 15
+  },
+  {
+    "id": 1324089362,
+    "player_id": 1901,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089357,
+    "player_id": 12647,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1710287616,
+    "player_id": 537117,
+    "team_id": 18,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1535133449,
+    "player_id": 537117,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 27
+  },
+  {
+    "id": 1536230348,
+    "player_id": 37541456,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 55
+  },
+  {
+    "id": 1324089359,
+    "player_id": 524045,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1324089364,
+    "player_id": 4536500,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089376,
+    "player_id": 7643,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089348,
+    "player_id": 4598710,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089248,
+    "player_id": 539961,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1535133009,
+    "player_id": 539961,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1370995474,
+    "player_id": 310131,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089374,
+    "player_id": 18218609,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1711539498,
+    "player_id": 37610432,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1719293080,
+    "player_id": 1601,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089381,
+    "player_id": 186766,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1454738263,
+    "player_id": 96722,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089379,
+    "player_id": 37350704,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1534612934,
+    "player_id": 5666458,
+    "team_id": 51,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1711657523,
+    "player_id": 37619858,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 46
+  },
+  {
+    "id": 1699566516,
+    "player_id": 37608776,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 50
+  },
+  {
+    "id": 1324089411,
+    "player_id": 1494663,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324089395,
+    "player_id": 37381778,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089429,
+    "player_id": 1834,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 4
+  },
+  {
+    "id": 1707347321,
+    "player_id": 37627749,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089400,
+    "player_id": 1095,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1324089431,
+    "player_id": 9808,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089430,
+    "player_id": 537493,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 16
+  },
+  {
+    "id": 1485540901,
+    "player_id": 23260605,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089420,
+    "player_id": 10990678,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1702037613,
+    "player_id": 37616114,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 51
+  },
+  {
+    "id": 1711657522,
+    "player_id": 37554469,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 43
+  },
+  {
+    "id": 1710176979,
+    "player_id": 37608777,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 44
+  },
+  {
+    "id": 1710176980,
+    "player_id": 37592022,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 49
+  },
+  {
+    "id": 1324089427,
+    "player_id": 37550443,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1704617490,
+    "player_id": 37623493,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 45
+  },
+  {
+    "id": 1324089399,
+    "player_id": 22169325,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089434,
+    "player_id": 37543248,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1665408247,
+    "player_id": 37608765,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 48
+  },
+  {
+    "id": 1358283174,
+    "player_id": 2511082,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089422,
+    "player_id": 6087,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324089412,
+    "player_id": 37325112,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 40
+  },
+  {
+    "id": 1324089418,
+    "player_id": 37392849,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 32
+  },
+  {
+    "id": 1534612906,
+    "player_id": 128798,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089397,
+    "player_id": 128798,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1359440016,
+    "player_id": 239578,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1389451115,
+    "player_id": 37391641,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089401,
+    "player_id": 22169319,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 42
+  },
+  {
+    "id": 1532364028,
+    "player_id": 186606,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 13
+  },
+  {
+    "id": 1324089394,
+    "player_id": 172752,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1359440490,
+    "player_id": 26354,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 26
+  },
+  {
+    "id": 1673579645,
+    "player_id": 37549912,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 47
+  },
+  {
+    "id": 1324089433,
+    "player_id": 26803,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089419,
+    "player_id": 333989,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089424,
+    "player_id": 24065255,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 27
+  },
+  {
+    "id": 1495502145,
+    "player_id": 11298616,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089423,
+    "player_id": 262324,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 12
+  },
+  {
+    "id": 1447557254,
+    "player_id": 37612542,
+    "team_id": 52,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089471,
+    "player_id": 3463,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1324089446,
+    "player_id": 26506,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1702037540,
+    "player_id": 37583502,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 44
+  },
+  {
+    "id": 1709772640,
+    "player_id": 519,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 13
+  },
+  {
+    "id": 1532367060,
+    "player_id": 186585,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089469,
+    "player_id": 95348,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 30
+  },
+  {
+    "id": 1370995581,
+    "player_id": 37645422,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089458,
+    "player_id": 96943,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1453610417,
+    "player_id": 1498548,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089444,
+    "player_id": 37533413,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 28
+  },
+  {
+    "id": 1370995554,
+    "player_id": 332047,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089454,
+    "player_id": 28912805,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324088966,
+    "player_id": 1155,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1534613973,
+    "player_id": 1155,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089460,
+    "player_id": 24830085,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1384403399,
+    "player_id": 29311982,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 33
+  },
+  {
+    "id": 1324089463,
+    "player_id": 10831,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089477,
+    "player_id": 914,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1414290328,
+    "player_id": 178032,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089441,
+    "player_id": 37627036,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089475,
+    "player_id": 2975,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 26
+  },
+  {
+    "id": 1532367072,
+    "player_id": 37402303,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089470,
+    "player_id": 1956,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089453,
+    "player_id": 335653,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089438,
+    "player_id": 7926,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1534614024,
+    "player_id": 36073933,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089466,
+    "player_id": 11720838,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089455,
+    "player_id": 2875858,
+    "team_id": 63,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1399279111,
+    "player_id": 5666480,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 16
+  },
+  {
+    "id": 1370995575,
+    "player_id": 3300,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 21
+  },
+  {
+    "id": 1677858604,
+    "player_id": 37576740,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 60
+  },
+  {
+    "id": 1534613907,
+    "player_id": 96642,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1777577301,
+    "player_id": 16845996,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 24,
+    "jersey_number": null
+  },
+  {
+    "id": 1703371481,
+    "player_id": 37451258,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 34
+  },
+  {
+    "id": 1505166925,
+    "player_id": 37593153,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089508,
+    "player_id": 1393,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089495,
+    "player_id": 9826,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089499,
+    "player_id": 175530,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1407066381,
+    "player_id": 518749,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 4
+  },
+  {
+    "id": 1708010839,
+    "player_id": 37668614,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 39
+  },
+  {
+    "id": 1770727925,
+    "player_id": 37617684,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 46
+  },
+  {
+    "id": 1370995565,
+    "player_id": 37350031,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 12
+  },
+  {
+    "id": 1753707226,
+    "player_id": 37700713,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 27,
+    "jersey_number": null
+  },
+  {
+    "id": 1324089505,
+    "player_id": 37537876,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 25,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324089498,
+    "player_id": 37592030,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1719293048,
+    "player_id": 37410255,
+    "team_id": 13,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1358283980,
+    "player_id": 37410255,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089512,
+    "player_id": 1131,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089503,
+    "player_id": 37316841,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089485,
+    "player_id": 2951,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1447552878,
+    "player_id": 7835,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1534614144,
+    "player_id": 2712,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089500,
+    "player_id": 6513,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089510,
+    "player_id": 6241,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 13
+  },
+  {
+    "id": 1376392897,
+    "player_id": 3188067,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1370995587,
+    "player_id": 1149,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1358283581,
+    "player_id": 27066567,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 37
+  },
+  {
+    "id": 1360637495,
+    "player_id": 23278675,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1496046899,
+    "player_id": 28912777,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1358282692,
+    "player_id": 84143,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 32
+  },
+  {
+    "id": 1324089488,
+    "player_id": 4659,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089491,
+    "player_id": 7640,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1496049865,
+    "player_id": 37423141,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 26
+  },
+  {
+    "id": 1712917165,
+    "player_id": 37509380,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324089235,
+    "player_id": 9438,
+    "team_id": 19,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1533526441,
+    "player_id": 9438,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089509,
+    "player_id": 581052,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089501,
+    "player_id": 155138,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 35
+  },
+  {
+    "id": 1496617828,
+    "player_id": 37561126,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 33
+  },
+  {
+    "id": 1324089497,
+    "player_id": 37438667,
+    "team_id": 65,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 20
+  },
+  {
+    "id": 1532366934,
+    "player_id": 37558991,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089513,
+    "player_id": 37555816,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089468,
+    "player_id": 627,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089481,
+    "player_id": 37526157,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 26
+  },
+  {
+    "id": 1770727935,
+    "player_id": 37663883,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 72
+  },
+  {
+    "id": 1532366928,
+    "player_id": 1494712,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 33
+  },
+  {
+    "id": 1324089504,
+    "player_id": 37561625,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 41
+  },
+  {
+    "id": 1770727934,
+    "player_id": 37688011,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 71
+  },
+  {
+    "id": 1720238219,
+    "player_id": 581004,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 24,
+    "jersey_number": 37
+  },
+  {
+    "id": 1324089542,
+    "player_id": 35280539,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 16
+  },
+  {
+    "id": 1717287800,
+    "player_id": 37623129,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 57
+  },
+  {
+    "id": 1633912763,
+    "player_id": 37437759,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 38
+  },
+  {
+    "id": 1324089548,
+    "player_id": 197,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089555,
+    "player_id": 1444078,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 15
+  },
+  {
+    "id": 1665408249,
+    "player_id": 37586696,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 44
+  },
+  {
+    "id": 1324089502,
+    "player_id": 37577727,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089511,
+    "player_id": 29419594,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1713566562,
+    "player_id": 29419594,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 9
+  },
+  {
+    "id": 1501851002,
+    "player_id": 21782390,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 14
+  },
+  {
+    "id": 1450424305,
+    "player_id": 28912837,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 47
+  },
+  {
+    "id": 1532366926,
+    "player_id": 25738,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 24
+  },
+  {
+    "id": 1717129886,
+    "player_id": 28912974,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089473,
+    "player_id": 28912807,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 39
+  },
+  {
+    "id": 1765024593,
+    "player_id": 37581778,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 60
+  },
+  {
+    "id": 1324089487,
+    "player_id": 2461,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1496618429,
+    "player_id": 37599242,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 51
+  },
+  {
+    "id": 1324089496,
+    "player_id": 2683,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089437,
+    "player_id": 24655,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089494,
+    "player_id": 6599973,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 11
+  },
+  {
+    "id": 1324089456,
+    "player_id": 37257596,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089439,
+    "player_id": 9308200,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089436,
+    "player_id": 54191,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1672436202,
+    "player_id": 37552849,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 53
+  },
+  {
+    "id": 1718824437,
+    "player_id": 37253456,
+    "team_id": 1,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 34
+  },
+  {
+    "id": 1324089515,
+    "player_id": 37253456,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 28
+  },
+  {
+    "id": 1370995703,
+    "player_id": 37655226,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 17
+  },
+  {
+    "id": 1324089445,
+    "player_id": 6504,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089452,
+    "player_id": 2423,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1376979772,
+    "player_id": 24082563,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1324089514,
+    "player_id": 187969,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089556,
+    "player_id": 21437534,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089490,
+    "player_id": 37588823,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089554,
+    "player_id": 24818803,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 29
+  },
+  {
+    "id": 1324089530,
+    "player_id": 28931574,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1703371488,
+    "player_id": 37563876,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 25
+  },
+  {
+    "id": 1370996347,
+    "player_id": 581199,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089345,
+    "player_id": 9472,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089421,
+    "player_id": 2965,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 28
+  },
+  {
+    "id": 1706416791,
+    "player_id": 7958,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 44
+  },
+  {
+    "id": 1324089386,
+    "player_id": 7026563,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1324089346,
+    "player_id": 28575866,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 16
+  },
+  {
+    "id": 1790965751,
+    "player_id": 37660005,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 49
+  },
+  {
+    "id": 1324089349,
+    "player_id": 5922,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 15
+  },
+  {
+    "id": 1516972155,
+    "player_id": 581094,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 26
+  },
+  {
+    "id": 1526063897,
+    "player_id": 122090,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089390,
+    "player_id": 2475,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 25
+  },
+  {
+    "id": 1324089398,
+    "player_id": 3189,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 5
+  },
+  {
+    "id": 1324089511,
+    "player_id": 29419594,
+    "team_id": 78,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1713566562,
+    "player_id": 29419594,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089409,
+    "player_id": 13042,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089417,
+    "player_id": 4391,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 40
+  },
+  {
+    "id": 1324089360,
+    "player_id": 581062,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 33
+  },
+  {
+    "id": 1516399192,
+    "player_id": 10310765,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 47
+  },
+  {
+    "id": 1324089388,
+    "player_id": 7577,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 27
+  },
+  {
+    "id": 1453610422,
+    "player_id": 5801,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 22
+  },
+  {
+    "id": 1494985530,
+    "player_id": 3354,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089387,
+    "player_id": 28912734,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 13
+  },
+  {
+    "id": 1775301978,
+    "player_id": 37581753,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 48
+  },
+  {
+    "id": 1409426301,
+    "player_id": 538038,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  },
+  {
+    "id": 1324089393,
+    "player_id": 6535,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 11
+  },
+  {
+    "id": 1494985247,
+    "player_id": 8740,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089370,
+    "player_id": 12216,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 10
+  },
+  {
+    "id": 1324089391,
+    "player_id": 6067,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1501848126,
+    "player_id": 194768,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 12
+  },
+  {
+    "id": 1324089396,
+    "player_id": 25567988,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1397350713,
+    "player_id": 37255841,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 24
+  },
+  {
+    "id": 1359444515,
+    "player_id": 37536911,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089402,
+    "player_id": 2816063,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 6
+  },
+  {
+    "id": 1416630815,
+    "player_id": 33186827,
+    "team_id": 15,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 19
+  },
+  {
+    "id": 1710669082,
+    "player_id": 33186827,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 29
+  },
+  {
+    "id": 1398137832,
+    "player_id": 28912976,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1719292927,
+    "player_id": 4633,
+    "team_id": 116,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 31
+  },
+  {
+    "id": 1324089621,
+    "player_id": 8403173,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 32
+  },
+  {
+    "id": 1751529836,
+    "player_id": 37683527,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 44
+  },
+  {
+    "id": 1359450242,
+    "player_id": 37627277,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 36
+  },
+  {
+    "id": 1700576260,
+    "player_id": 37655005,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 43
+  },
+  {
+    "id": 1324089601,
+    "player_id": 37709434,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 26
+  },
+  {
+    "id": 1324089593,
+    "player_id": 537108,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 15
+  },
+  {
+    "id": 1324089623,
+    "player_id": 339093,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 26,
+    "jersey_number": 10
+  },
+  {
+    "id": 1739045050,
+    "player_id": 37609794,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 40
+  },
+  {
+    "id": 1324089622,
+    "player_id": 1460,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 16
+  },
+  {
+    "id": 1324089603,
+    "player_id": 31238191,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 25
+  },
+  {
+    "id": 1534613031,
+    "player_id": 37614062,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 21
+  },
+  {
+    "id": 1324089600,
+    "player_id": 37653269,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 28
+  },
+  {
+    "id": 1324089597,
+    "player_id": 36633,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 27
+  },
+  {
+    "id": 1718231756,
+    "player_id": 37643341,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 41
+  },
+  {
+    "id": 1324089606,
+    "player_id": 531971,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 12
+  },
+  {
+    "id": 1482629493,
+    "player_id": 21412957,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 14
+  },
+  {
+    "id": 1324089604,
+    "player_id": 456067,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 30
+  },
+  {
+    "id": 1324089611,
+    "player_id": 8449373,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 24
+  },
+  {
+    "id": 1324089594,
+    "player_id": 7993,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 3
+  },
+  {
+    "id": 1324089595,
+    "player_id": 529689,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 19
+  },
+  {
+    "id": 1324089591,
+    "player_id": 84426,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 8
+  },
+  {
+    "id": 1324089590,
+    "player_id": 31609,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 6
+  },
+  {
+    "id": 1324089619,
+    "player_id": 27067062,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 7
+  },
+  {
+    "id": 1324089612,
+    "player_id": 96928,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 11
+  },
+  {
+    "id": 1714030723,
+    "player_id": 37600942,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 33
+  },
+  {
+    "id": 1324089598,
+    "player_id": 151418,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 20
+  },
+  {
+    "id": 1324089608,
+    "player_id": 28552845,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 23
+  },
+  {
+    "id": 1324089607,
+    "player_id": 27440826,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": false,
+    "position_id": 25,
+    "jersey_number": 2
+  },
+  {
+    "id": 1532366912,
+    "player_id": 37704861,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 39
+  },
+  {
+    "id": 1591226356,
+    "player_id": 37614769,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 42
+  },
+  {
+    "id": 1532366916,
+    "player_id": 37407204,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 27,
+    "jersey_number": 9
+  },
+  {
+    "id": 1324089589,
+    "player_id": 11705403,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 22
+  },
+  {
+    "id": 1324089620,
+    "player_id": 37509395,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 26,
+    "jersey_number": 18
+  },
+  {
+    "id": 1324089609,
+    "player_id": 15665,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 5
+  },
+  {
+    "id": 1511902086,
+    "player_id": 11658171,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 25,
+    "jersey_number": 4
+  },
+  {
+    "id": 1324089618,
+    "player_id": 34737,
+    "team_id": 236,
+    "season_id": 23614,
+    "has_values": true,
+    "position_id": 24,
+    "jersey_number": 1
+  }
+]
