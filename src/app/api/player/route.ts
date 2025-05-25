@@ -35,7 +35,8 @@ export async function GET(request: NextRequest) {
         team:teams (
           id,
           name,
-          short_code
+          short_code,
+          image_path
         )
       ),
 

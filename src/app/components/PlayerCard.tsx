@@ -20,6 +20,7 @@ import {
   TableHeader,
   TableRow,
 } from '@/components/ui/table'
+import StatsRadar from './StatsRadar';
 
 export interface TeamInfo {
   id: number
@@ -146,6 +147,10 @@ export default function PlayerCard({ player }: PlayerCardProps) {
         </CardFooter>
       )}
 
+      {stats.length == 0 && (
+        <p className="text-gray-400 text-center">No stats available.</p>
+      )}
+
       {stats.length > 0 && (
         <CardContent className="px-6 py-4 border-t border-gray-700">
           <Label className="text-xs uppercase text-gray-500 mb-2 block">
@@ -195,31 +200,12 @@ export default function PlayerCard({ player }: PlayerCardProps) {
         </CardContent>
       )}
 
-      {/* {stats.length > 0 && (
-        <CardContent className="px-6 py-4 border-t border-gray-700">
-          <Label className="text-xs uppercase text-gray-500 mb-2 block">
-            Selected Statistics
-          </Label>
-          <div className="space-y-4">
-            {stats.map((stat) => (
-              <div key={stat.id} className="bg-gray-700 p-4 rounded-lg">
-                <ul className="list-disc list-inside text-gray-300 text-sm space-y-1">
-                  {stat.player_statistic_details.map((detail) => (
-                    <li key={detail.id}>
-                      <span className="font-medium text-white">
-                        {detail.stat_type.developer_name}:
-                      </span>{' '}
-                      {Object.entries(detail.value)
-                        .map(([k, v]) => `${k}=${v}`)
-                        .join(', ')}
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
-          </div>
-        </CardContent>
-      )} */}
+      <CardContent className="px-6 py-4 border-t border-gray-700">
+        <Label className="text-xs uppercase text-gray-500 mb-2 block">
+          Performance Radar
+        </Label>
+        <StatsRadar playerId={player.id} position={player.position.name} />
+      </CardContent>
     </Card>
   )
 }
