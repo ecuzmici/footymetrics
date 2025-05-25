@@ -6,9 +6,10 @@ const STAT_TYPE_IDS = Object.values(GENERAL_STATISTICS)
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  context
 ) {
-  const playerId = await Number(params.id)
+  const { id } = await context.params
+  const playerId = Number(id)
   if (!playerId || Number.isNaN(playerId)) {
     return NextResponse.json(
       { error: 'Invalid or missing player ID' },

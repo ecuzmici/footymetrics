@@ -12,7 +12,7 @@ type StatResult = {
 
 export async function GET(
   request: NextRequest,
-  context: { params: { id: string; position: string } }
+  context
 ) {
   const { id, position } = await context.params
   const playerId = Number(id)
@@ -33,13 +33,13 @@ export async function GET(
 
   const typeIds = new Set<number>()
   per90Entries.forEach((e) =>
-    Object.values(e.values).forEach((id) => typeIds.add(id))
+    Object.values(e.values).forEach((id: number) => typeIds.add(id))
   )
   ratioEntries.forEach((e) =>
-    Object.values(e.values).forEach((id) => typeIds.add(id))
+    Object.values(e.values).forEach((id: number) => typeIds.add(id))
   )
   staticEntries.forEach((e) =>
-    Object.values(e.value).forEach((id) => typeIds.add(id))
+    Object.values(e.value).forEach((id: number) => typeIds.add(id))
   )
 
   // include minutes-played
@@ -103,7 +103,7 @@ export async function GET(
 
   // per_90 entries
   per90Entries.forEach((entry) => {
-    const typeId = Object.values(entry.values)[0]
+    const typeId = Number(Object.values(entry.values)[0])
     const raw = playerMap.get(typeId) ?? 0
     const per90 = minutesPlayed > 0 ? (raw / minutesPlayed) * 90 : 0
     const agg = per90AggMap.get(typeId) ?? { max: 0, min: 0 }
@@ -119,11 +119,11 @@ export async function GET(
   // ratio entries
   ratioEntries.forEach((entry) => {
     const [[, numId], [, denId]] = Object.entries(entry.values)
-    const num = playerMap.get(numId) ?? 0
-    const den = playerMap.get(denId) ?? 1
+    const num = playerMap.get(Number(numId)) ?? 0
+    const den = playerMap.get(Number(denId)) ?? 1
     const pct = den > 0 ? Math.min((num / den) * 100, 100) : 0
     results.push({
-      type_id: numId,
+      type_id: Number(numId),
       stat_name: entry.name,
       value: Number(pct.toFixed(2)),
       max: 100,
@@ -133,7 +133,7 @@ export async function GET(
 
   // static entries
   staticEntries.forEach((entry) => {
-    const typeId = Object.values(entry.value)[0]
+    const typeId = Number(Object.values(entry.value)[0])
     const raw = playerMap.get(typeId) ?? 0
     const agg = rawAggMap.get(typeId) ?? { max: 0, min: 0 }
     results.push({
