@@ -11,7 +11,7 @@ export default function Page() {
   return (
     <main className="flex flex-col min-h-screen bg-gray-900 items-center">
       <h1 className="text-3xl text-white mt-8 mb-6 font-light">
-        Premier League 2024/2025 Player Stats
+        FootyMetrics
       </h1>
   
       <PlayerAutocomplete onSelect={setSelectedPlayer} />
