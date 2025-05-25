@@ -32,7 +32,7 @@ interface ChartItem {
 
 interface StatsRadarProps {
   playerId: number
-  position: 'Goalkeeper' | 'Defender' | 'Midfielder' | 'Attacker'
+  position: 'Goalkeeper' | 'Defender' | 'Midfielder' | 'Attacker' | string
 }
 
 const CustomTooltip = ({ active, payload }: TooltipProps<number, string>) => {
@@ -89,8 +89,8 @@ export default function StatsRadar({ playerId, position }: StatsRadarProps) {
   })
 
   return (
-    <Card className="bg-gray-800 border-gray-800">
-      <CardContent className="h-64">
+    <Card className="bg-gray-700 border-0 shadow-none py-0">
+      <CardContent className="h-56">
         <ResponsiveContainer width="100%" height="100%">
           <RadarChart cx="50%" cy="50%" outerRadius="85%" data={chartData}>
             <PolarGrid stroke="darkgray" />
@@ -98,13 +98,6 @@ export default function StatsRadar({ playerId, position }: StatsRadarProps) {
               dataKey="stat"
               tick={{ fill: '#9CA3AF', fontSize: 12 }}
             />
-            {/* <PolarRadiusAxis
-              // angle={45}
-              domain={[0, 100]}
-              tick={{ fill: '#9CA3AF', fontSize: 10 }}
-              axisLine={false}
-              tickLine={false}
-            /> */}
             <Radar
               name="Player % of Max"
               dataKey="percent"
@@ -113,15 +106,15 @@ export default function StatsRadar({ playerId, position }: StatsRadarProps) {
               fillOpacity={0.4}
             />
             <Radar
-              name="Max (100%)"
+              name="League Max (100%)"
               dataKey="full"
-              stroke="#F87171"
-              fill="#F87171"
+              stroke="white"
+              fill="white"
               fillOpacity={0.01}
             />
             <Tooltip content={<CustomTooltip />} />
             <Legend
-              wrapperStyle={{ bottom: -10 }}
+              wrapperStyle={{ bottom: -15, fontSize: 12 }}
               formatter={(value) => (
                 <span className="text-gray-300">{value}</span>
               )}

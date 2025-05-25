@@ -20,12 +20,13 @@ import {
   TableHeader,
   TableRow,
 } from '@/components/ui/table'
-import StatsRadar from './StatsRadar';
+import StatsRadar from './StatsRadar'
 
 export interface TeamInfo {
   id: number
   name: string
   short_code: string
+  image_path: string
 }
 
 export interface PlayerTeam {
@@ -53,6 +54,13 @@ export interface Player {
   player_teams: PlayerTeam[]
   position: PositionInfo
   detailed_position: PositionInfo
+  country: CountryInfo
+}
+
+interface CountryInfo {
+  id: number
+  name: string
+  image_path: string
 }
 
 interface PlayerStatisticDetail {
@@ -97,81 +105,95 @@ export default function PlayerCard({ player }: PlayerCardProps) {
   }, [player.id])
 
   return (
-    <Card className="w-full max-w-2xl bg-gray-800 border border-gray-700 shadow-lg mb-8">
-      <CardHeader className="flex items-center space-x-4 p-6">
-        <Avatar className="w-24 h-24">
-          <AvatarImage
-            src={player.image_path}
-            alt={player.display_name}
-            className="w-full h-full object-cover rounded-full"
-          />
-        </Avatar>
-        <div>
-          <CardTitle className="text-2xl text-white">
-            {player.display_name}
-          </CardTitle>
-          <CardDescription className="text-sm text-gray-400">
-            {player.common_name}
-          </CardDescription>
+    <Card className="w-full max-w-7xl mx-auto bg-gray-800 border border-gray-700 shadow-lg mb-8">
+      <CardContent className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-6">
+        {/* LEFT: Player & Team Info */}
+        <div className="space-y-6">
+          {/* Player Header */}
+          <div className="bg-gray-700 rounded-lg shadow-md p-6 flex items-center space-x-4 min-h-48">
+            <Avatar className="w-24 h-24">
+              <AvatarImage
+                src={player.image_path}
+                alt={player.display_name}
+                className="rounded-full object-cover"
+              />
+            </Avatar>
+            <div className="flex-1">
+              <CardTitle className="text-2xl text-white">
+                {player.display_name}
+              </CardTitle>
+              <CardDescription className="text-gray-400">
+                {player.common_name}
+              </CardDescription>
+            </div>
+            <div className="flex flex-col items-center gap-4">
+              <Avatar className="w-20 h-20">
+                <AvatarImage
+                  src={player.player_teams[0].team.image_path}
+                  alt={player.player_teams[0].team.name}
+                  className="rounded-md object-contain"
+                />
+              </Avatar>
+              <p className="text-gray-200">
+                {player.player_teams[0].team.short_code}
+              </p>
+            </div>
+          </div>
+
+          {/* Basic Info */}
+          <div className="bg-gray-700 rounded-lg shadow-md p-6 min-h-80">
+            <h3 className="text-lg font-semibold text-white mb-4">
+              Basic Info
+            </h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {[
+                ['Full Name', player.name],
+                ['Date of Birth', dob],
+                ['Height', player.height ? `${player.height} cm` : '-'],
+                ['Weight', player.weight ? `${player.weight} kg` : '-'],
+                ['Position', player.position?.name || '-'],
+                ['Role', player.detailed_position?.name || '-'],
+                ['Country', player.country?.name || '-'],
+                ['Jersey number', player.player_teams[0].jersey_number || '-'],
+              ].map(([label, value]) => (
+                <div key={label}>
+                  <Label className="text-xs text-gray-400">{label}</Label>
+                  <p className="mt-1 text-white">{value}</p>
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
-      </CardHeader>
 
-      <CardContent className="grid grid-cols-1 sm:grid-cols-2 gap-6 px-6 py-4">
-        {[
-          ['Full Name', player.name],
-          ['Date of Birth', dob],
-          ['Height', player.height ? `${player.height} cm` : '-'],
-          ['Weight', player.weight ? `${player.weight} kg` : '-'],
-          ['Position', player.position?.name || '-'],
-          ['Role', player.detailed_position?.name || '-'],
-        ].map(([label, value]) => (
-          <div key={label}>
-            <Label className="text-xs uppercase text-gray-500">{label}</Label>
-            <p className="mt-1 text-base text-white">{value}</p>
-          </div>
-        ))}
-      </CardContent>
+        {/* RIGHT: Stats Table & Radar */}
+        <div className="space-y-6">
+          {/* General Statistics */}
+          {stats.length === 0 ? (
+            <p className="text-gray-400 text-center">No stats available.</p>
+          ) : (
+            <div className="bg-gray-700 rounded-lg shadow-md p-6 min-h-48">
+              <h3 className="text-lg font-semibold text-white mb-4">
+                General Statistics
+              </h3>
 
-      {mainTeam && (
-        <CardFooter className="flex items-center justify-between px-6 py-4 border-t border-gray-700">
-          <div>
-            <Label className="text-xs uppercase text-gray-500">Team</Label>
-            <p className="mt-1 text-white">
-              {mainTeam.team.name} ({mainTeam.team.short_code})
-            </p>
-          </div>
-          <div className="text-right">
-            <Label className="text-xs uppercase text-gray-500">Jersey #</Label>
-            <p className="mt-1 text-white">{mainTeam.jersey_number ?? '-'}</p>
-          </div>
-        </CardFooter>
-      )}
-
-      {stats.length == 0 && (
-        <p className="text-gray-400 text-center">No stats available.</p>
-      )}
-
-      {stats.length > 0 && (
-        <CardContent className="px-6 py-4 border-t border-gray-700">
-          <Label className="text-xs uppercase text-gray-500 mb-2 block">
-            General Statistics
-          </Label>
-
-          {(() => {
-            const details = stats[0].player_statistic_details
-            if (!details.length) {
-              return <p className="text-gray-400">No stats available.</p>
-            }
-
-            return (
-              <div className="overflow-x-auto">
-                <Table className="w-full border border-gray-600 rounded-sm overflow-hidden">
-                  <TableHeader className="bg-gray-700">
+              {/* Desktop table, hidden on small screens */}
+              <div className="hidden sm:block overflow-x-auto">
+                <Table className="w-full text-sm border border-gray-600 rounded-lg overflow-hidden">
+                  <TableHeader className="bg-gray-800">
                     <TableRow className="border-b border-gray-600">
-                      {details.map((d) => (
+                      {stats[0].player_statistic_details.map((d, i) => (
                         <TableHead
                           key={d.id}
-                          className="text-gray-300 text-center px-2 py-1 border-r border-gray-600 last:border-r-0"
+                          className={`
+                            px-3 py-2 text-gray-300 text-center
+                            border-r border-gray-600 last:border-r-0
+                            ${i === 0 ? 'rounded-tl-lg' : ''}
+                            ${
+                              i === stats[0].player_statistic_details.length - 1
+                                ? 'rounded-tr-lg'
+                                : ''
+                            }
+                          `}
                         >
                           {d.stat_type.name}
                         </TableHead>
@@ -180,31 +202,55 @@ export default function PlayerCard({ player }: PlayerCardProps) {
                   </TableHeader>
                   <TableBody>
                     <TableRow className="bg-gray-800">
-                      {details.map((d) => {
-                        const display = d.value['total'] ?? d.value['average']
-                        return (
-                          <TableCell
-                            key={d.id}
-                            className="text-white text-center px-2 py-1 border-r border-gray-600 last:border-r-0"
-                          >
-                            {display}
-                          </TableCell>
-                        )
-                      })}
+                      {stats[0].player_statistic_details.map((d, i) => (
+                        <TableCell
+                          key={d.id}
+                          className={`
+                            px-3 py-2 text-white text-center
+                            border-r border-gray-600 last:border-r-0
+                            ${i === 0 ? 'rounded-bl-lg' : ''}
+                            ${
+                              i === stats[0].player_statistic_details.length - 1
+                                ? 'rounded-br-lg'
+                                : ''
+                            }
+                          `}
+                        >
+                          {d.value.total ?? d.value.average}
+                        </TableCell>
+                      ))}
                     </TableRow>
                   </TableBody>
                 </Table>
               </div>
-            )
-          })()}
-        </CardContent>
-      )}
 
-      <CardContent className="px-6 py-4 border-t border-gray-700">
-        <Label className="text-xs uppercase text-gray-500 mb-2 block">
-          Performance Radar
-        </Label>
-        <StatsRadar playerId={player.id} position={player.position.name} />
+              {/* Mobile label-value list, hidden on larger screens */}
+              <div className="sm:hidden grid grid-cols-1 gap-4">
+                {stats[0].player_statistic_details.map((d) => (
+                  <div
+                    key={d.id}
+                    className="bg-gray-800 rounded-lg shadow p-4 flex flex-col items-center"
+                  >
+                    <div className="text-gray-300 text-sm font-medium mb-2 text-center">
+                      {d.stat_type.name}
+                    </div>
+                    <div className="text-white text-xl font-semibold">
+                      {d.value.total ?? d.value.average}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Performance Radar */}
+          <div className="bg-gray-700 rounded-lg p-6 min-h-80">
+            <h3 className="text-lg font-semibold text-white mb-4">
+              {`${player.position.name} Performance Radar`}
+            </h3>
+            <StatsRadar playerId={player.id} position={player.position.name} />
+          </div>
+        </div>
       </CardContent>
     </Card>
   )

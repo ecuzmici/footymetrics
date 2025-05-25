@@ -47,6 +47,12 @@ export async function GET(request: NextRequest) {
       detailed_position:types!fk_players_detailed (
         id,
         name
+      ),
+
+      country:countries!fk_players_nationality (
+        id,
+        name,
+        image_path
       )
     `)
     .ilike('name', `%${name}%`)

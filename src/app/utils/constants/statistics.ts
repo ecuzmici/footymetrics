@@ -13,25 +13,25 @@ export const POSITION_STATISTICS = {
     "calculate": {
       "per_90": [ 
         {
-          "name": "Saves",
+          "name": "Saves p90",
           "values": {
             "SAVES": 57
           }
         },
         {
-          "name": "Goals conceded",
+          "name": "Goals conceded p90",
           "values": {
             "GOALS_CONCEDED": 88
           }
         },
         {
-          "name": "Aerials won",
+          "name": "Aerials won p90",
           "values": {
             "AERIALS_WON": 107
           }
         },
         {
-          "name": "Passes",
+          "name": "Passes p90",
           "values": {
             "PASSES": 80
           }
@@ -57,31 +57,31 @@ export const POSITION_STATISTICS = {
     "calculate": {
       "per_90": [
         {
-          "name": "Aerials won",
+          "name": "Aerials won p90",
           "values": {
             "AERIALS_WON": 107,
           }
         },
         {
-          "name": "Blocked shots",
+          "name": "Blocked shots p90",
           "values": {
             "BLOCKED_SHOTS": 97,
           }
         },
         {
-          "name": "Fouls",
+          "name": "Fouls p90",
           "values": {
             "FOULS": 56,
           }
         },
         {
-          "name": "Tackles",
+          "name": "Tackles p90",
           "values": {
             "TACKLES": 78,
           }
         },
         {
-          "name": "Interceptions",
+          "name": "Interceptions p90",
           "values": {
             "INTERCEPTIONS": 100,
           }
@@ -116,31 +116,31 @@ export const POSITION_STATISTICS = {
     "calculate": {
       "per_90": [
         {
-          "name": "Passes",
+          "name": "Passes p90",
           "values": {
             "PASSES": 80,
           }
         },
         {
-          "name": "Tackles",
+          "name": "Tackles p90",
           "values": {
             "TACKLES": 78,
           }
         },
         {
-          "name": "Interceptions",
+          "name": "Interceptions p90",
           "values": {
             "FOULS": 100,
           }
         },
         {
-          "name": "Key passes",
+          "name": "Key passes p90",
           "values": {
             "KEY_PASSES": 117,
           }
         },
         {
-          "name": "Big chances created",
+          "name": "Big chances created p90",
           "values": {
             "BIG_CHANCES_CREATED": 580,
           }
@@ -176,31 +176,31 @@ export const POSITION_STATISTICS = {
     "calculate": {
       "per_90": [
         {
-          "name": "Shots",
+          "name": "Shots p90",
           "values": {
             "SHOTS_TOTAL": 86,
           }
         },
         {
-          "name": "Crosses",
+          "name": "Crosses p90",
           "values": {
             "TOTAL_CROSSES": 98,
           }
         },
         {
-          "name": "Dribble attempts",
+          "name": "Dribble attempts p90",
           "values": {
             "DRIBBLED_ATTEMPTS": 108
           }
         },
         {
-          "name": "Big chances created",
+          "name": "Big chances created p90",
           "values": {
             "BIG_CHANCES_CREATED": 580,
           }
         },
         {
-          "name": "Big chances missed",
+          "name": "Big chances missed p90",
           "values": {
             "BIG_CHANCES_MISSED": 581,
           }
