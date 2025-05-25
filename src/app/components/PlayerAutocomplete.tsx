@@ -14,7 +14,7 @@ interface PlayerAutocompleteProps {
 
 export default function PlayerAutocomplete({ onSelect }: PlayerAutocompleteProps) {
   const [query, setQuery] = useState('')
-  const [debouncedInput] = useDebounce(query, 300)
+  const [debouncedInput] = useDebounce(query, 150)
 
   const { data: suggestions = [], isFetching } = useQuery({
     queryKey: ['player-suggest', debouncedInput],
