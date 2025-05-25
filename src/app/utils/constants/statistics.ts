@@ -215,6 +215,13 @@ export const POSITION_STATISTICS = {
           }
         },
         {
+          "name": "Conversion rate %",
+          "values": {
+            "GOALS": 52,
+            "SHOTS_ON_TARGET": 86
+          }
+        },
+        {
           "name": "Cross accuracy %",
           "values": {
             "ACCURATE_CROSSES": 99,
