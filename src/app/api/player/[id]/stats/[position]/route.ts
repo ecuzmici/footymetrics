@@ -1,4 +1,3 @@
-// app/api/player/[id]/stats/[position]/route.ts
 import { POSITION_STATISTICS } from '@/src/app/utils/constants/statistics'
 import { createServerSupabaseClient } from '@/src/app/utils/supabase/server'
 import { NextRequest, NextResponse } from 'next/server'
