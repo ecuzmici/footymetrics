@@ -9,24 +9,25 @@ export default function Page() {
   const [selectedPlayer, setSelectedPlayer] = useState<Player | null>(null)
 
   return (
-    <main className="min-h-screen bg-gray-900 p-8 flex flex-col items-center">
-      <h1 className="text-3xl text-white mb-6 font-light">
+    <main className="flex flex-col min-h-screen bg-gray-900 items-center">
+      <h1 className="text-3xl text-white mt-8 mb-6 font-light">
         Premier League 2024/2025 Player Stats
       </h1>
-
+  
       <PlayerAutocomplete onSelect={setSelectedPlayer} />
-
+  
       {selectedPlayer && (
         <div className="mt-8 w-full flex justify-center">
           <PlayerCard player={selectedPlayer} />
         </div>
       )}
-
-      <footer className="bg-gray-800">
-        <div className="container mx-auto px-6 py-4 text-center text-gray-400 text-sm">
+  
+      <footer className="mt-auto w-full bg-gray-800">
+        <div className="container mx-auto py-4 text-center text-gray-400 text-sm">
           &copy; {new Date().getFullYear()} Emil Cuzmici. All statistics taken from SportMonks.
         </div>
       </footer>
     </main>
   )
+  
 }

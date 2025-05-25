@@ -12,10 +12,10 @@ type StatResult = {
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string; position: string } }
+  context: { params: { id: string; position: string } }
 ) {
-  const playerId = Number(await params.id)
-  const position = await params.position
+  const { id, position } = await context.params
+  const playerId = Number(id)
 
   // 1) Validate
   if (!playerId || isNaN(playerId)) {

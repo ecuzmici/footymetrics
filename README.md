@@ -22,8 +22,8 @@ FootyMetrics is a Next.js app for exploring one-season football player statistic
 
 ## Getting Started
 1. **Clone the repo**  
-git clone https://github.com/your-org/footymetrics.git
-cd footymetrics
+git clone https://github.com/ecuzmici/sportmonks-stats.git
+cd sportmonks-stats
 
 2. **Install dependencies**  
 npm install
