@@ -23,12 +23,12 @@ FootyMetrics is a Next.js app for exploring one-season football player statistic
 
 ## Getting Started
 1. **Clone the repo**  
+```
 git clone https://github.com/ecuzmici/footymetrics.git
-
 cd footymetrics
-
+``````
 2. **Install dependencies**  
-npm install
+```npm install```
 
 
 3. **Configure Supabase**  
@@ -36,7 +36,7 @@ npm install
 - Run migrations or import the provided SQL to set up tables and aggregates.  
 
 4. **Run the dev server**  
-npm run dev
+```npm run dev```
 
 
 ## Folder Structure
