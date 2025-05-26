@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "FootyMetrics",
   description: "Personal project by Emil Cuzmici",
+  icons: {
+    icon: './favicon.svg'
+  }
 };
 
 export default function RootLayout({ children }) {
