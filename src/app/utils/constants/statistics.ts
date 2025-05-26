@@ -218,7 +218,7 @@ export const POSITION_STATISTICS = {
           "name": "Conversion rate %",
           "values": {
             "GOALS": 52,
-            "SHOTS_ON_TARGET": 86
+            "SHOTS_TOTAL": 42
           }
         },
         {

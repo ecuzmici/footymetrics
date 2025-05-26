@@ -3,19 +3,17 @@
 import { useState, useEffect } from 'react'
 import {
   Card,
-  CardTitle,
-  CardDescription,
   CardContent,
 } from '@/components/ui/card'
 import { Avatar, AvatarImage } from '@/components/ui/avatar'
 import { Label } from '@/components/ui/label'
 import {
   Table,
-  TableBody,
-  TableCell,
-  TableHead,
   TableHeader,
   TableRow,
+  TableHead,
+  TableBody,
+  TableCell,
 } from '@/components/ui/table'
 import StatsRadar from './StatsRadar'
 
@@ -36,6 +34,12 @@ export interface PositionInfo {
   name: string
 }
 
+export interface CountryInfo {
+  id: number
+  name: string
+  image_path: string
+}
+
 export interface Player {
   id: number
   common_name: string
@@ -54,19 +58,11 @@ export interface Player {
   country: CountryInfo
 }
 
-interface CountryInfo {
-  id: number
-  name: string
-  image_path: string
-}
-
 interface PlayerStatisticDetail {
   id: number
   type_id: number
   value: Record<string, any>
-  stat_type: {
-    name: string
-  }
+  stat_type: { name: string }
 }
 
 interface PlayerStatistic {
@@ -78,6 +74,27 @@ interface PlayerStatistic {
 
 interface PlayerCardProps {
   player: Player
+}
+
+// used to display the general statistics in a hardcoded order
+const fixedOrder = [
+  'Appearances',
+  'Minutes Played',
+  'Goals',
+  'Assists',
+  'Yellowcards',
+  'Redcards',
+  'Rating',
+]
+
+const headerRenameMap: Record<string, string> = {
+  'Appearances': 'Apps',
+  'Minutes Played': 'Mins',
+  'Goals': 'Goals',
+  'Assists': 'Assists',
+  'Yellowcards': '🟨',
+  'Redcards': '🟥',
+  'Rating': 'Rating',
 }
 
 export default function PlayerCard({ player }: PlayerCardProps) {
@@ -101,6 +118,19 @@ export default function PlayerCard({ player }: PlayerCardProps) {
     fetchStats()
   }, [player.id])
 
+  const details = stats[0]?.player_statistic_details ?? []
+
+  const orderedStats = fixedOrder.map((name) => {
+    const stat = details.find((d) => d.stat_type.name === name)
+    if (stat) return stat
+    return {
+      id: -1,
+      type_id: 0,
+      stat_type: { name },
+      value: {},
+    } as PlayerStatisticDetail
+  })
+
   return (
     <Card className="w-full max-w-7xl mx-auto bg-gray-800 border border-gray-700 shadow-lg mb-8">
       <CardContent className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-6">
@@ -116,24 +146,20 @@ export default function PlayerCard({ player }: PlayerCardProps) {
               />
             </Avatar>
             <div className="flex-1">
-              <CardTitle className="text-2xl text-white">
+              <h2 className="text-2xl font-semibold text-white">
                 {player.display_name}
-              </CardTitle>
-              <CardDescription className="text-gray-400">
-                {player.common_name}
-              </CardDescription>
+              </h2>
+              <p className="text-gray-400">{player.common_name}</p>
             </div>
             <div className="flex flex-col items-center gap-4">
               <Avatar className="w-20 h-20">
                 <AvatarImage
-                  src={player.player_teams[0].team.image_path}
-                  alt={player.player_teams[0].team.name}
+                  src={mainTeam.team.image_path}
+                  alt={mainTeam.team.name}
                   className="rounded-md object-contain"
                 />
               </Avatar>
-              <p className="text-gray-200">
-                {player.player_teams[0].team.short_code}
-              </p>
+              <p className="text-gray-200">{mainTeam.team.short_code}</p>
             </div>
           </div>
 
@@ -173,69 +199,77 @@ export default function PlayerCard({ player }: PlayerCardProps) {
                 General Statistics
               </h3>
 
-              {/* Desktop table, hidden on small screens */}
+              {/* Desktop table */}
               <div className="hidden sm:block overflow-x-auto">
                 <Table className="w-full text-sm border border-gray-600 rounded-lg overflow-hidden">
                   <TableHeader className="bg-gray-800">
                     <TableRow className="border-b border-gray-600">
-                      {stats[0].player_statistic_details.map((d, i) => (
+                      {orderedStats.map((d, i) => (
                         <TableHead
-                          key={d.id}
+                          key={d.stat_type.name}
                           className={`
                             px-3 py-2 text-gray-300 text-center
                             border-r border-gray-600 last:border-r-0
                             ${i === 0 ? 'rounded-tl-lg' : ''}
                             ${
-                              i === stats[0].player_statistic_details.length - 1
+                              i === orderedStats.length - 1
                                 ? 'rounded-tr-lg'
                                 : ''
                             }
                           `}
                         >
-                          {d.stat_type.name}
+                          {headerRenameMap[d.stat_type.name] ||
+                            d.stat_type.name}
                         </TableHead>
                       ))}
                     </TableRow>
                   </TableHeader>
                   <TableBody>
                     <TableRow className="bg-gray-800">
-                      {stats[0].player_statistic_details.map((d, i) => (
-                        <TableCell
-                          key={d.id}
-                          className={`
-                            px-3 py-2 text-white text-center
-                            border-r border-gray-600 last:border-r-0
-                            ${i === 0 ? 'rounded-bl-lg' : ''}
-                            ${
-                              i === stats[0].player_statistic_details.length - 1
-                                ? 'rounded-br-lg'
-                                : ''
-                            }
-                          `}
-                        >
-                          {d.value.total ?? d.value.average}
-                        </TableCell>
-                      ))}
+                      {orderedStats.map((d, i) => {
+                        const display = d.value.total ?? d.value.average ?? '-'
+                        return (
+                          <TableCell
+                            key={d.stat_type.name}
+                            className={`
+                              px-3 py-2 text-white text-center
+                              border-r border-gray-600 last:border-r-0
+                              ${i === 0 ? 'rounded-bl-lg' : ''}
+                              ${
+                                i === orderedStats.length - 1
+                                  ? 'rounded-br-lg'
+                                  : ''
+                              }
+                            `}
+                          >
+                            {display}
+                          </TableCell>
+                        )
+                      })}
                     </TableRow>
                   </TableBody>
                 </Table>
               </div>
 
-              {/* Mobile label-value list, hidden on larger screens */}
+              {/* Mobile list */}
               <div className="sm:hidden grid grid-cols-1 gap-4">
-                {stats[0].player_statistic_details.map((d) => (
-                  <div
-                    key={d.id}
-                    className="bg-gray-800 rounded-lg shadow p-4 flex flex-col items-center"
-                  >
-                    <div className="text-gray-300 text-sm font-medium mb-2 text-center">
-                      {d.stat_type.name}
+                {orderedStats.map((d) => {
+                  const display = d.value.total ?? d.value.average ?? '-'
+                  return (
+                    <div
+                      key={d.stat_type.name}
+                      className="bg-gray-800 rounded-lg shadow p-4 flex flex-col items-center"
+                    >
+                      <div className="text-gray-300 text-sm font-medium mb-2 text-center">
+                        {headerRenameMap[d.stat_type.name] ||
+                          d.stat_type.name}
+                      </div>
+                      <div className="text-white text-xl font-semibold">
+                        {display}
+                      </div>
                     </div>
-                    <div className="text-white text-xl font-semibold">
-                      {d.value.total ?? d.value.average}
-                    </div>
-                  </div>
-                ))}
+                  )
+                })}
               </div>
             </div>
           )}

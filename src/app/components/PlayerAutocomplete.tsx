@@ -16,7 +16,7 @@ export default function PlayerAutocomplete({ onSelect }: PlayerAutocompleteProps
   const [query, setQuery] = useState('')
   const [debouncedInput] = useDebounce(query, 150)
 
-  const { data: suggestions = [], isFetching } = useQuery({
+  const { data: suggestions = [] } = useQuery({
     queryKey: ['player-suggest', debouncedInput],
     queryFn: () =>
       fetch(`/api/player?name=${encodeURIComponent(debouncedInput)}&limit=25`)
@@ -35,12 +35,6 @@ export default function PlayerAutocomplete({ onSelect }: PlayerAutocompleteProps
           displayValue={(p: Player) => p?.display_name ?? ''}
           onChange={(e) => setQuery(e.currentTarget.value)}
         />
-        <ComboboxButton as={Button} variant="ghost" className="p-3 mx-2">
-          {isFetching 
-            ? <Loader2 className="w-5 h-5 text-gray-400 animate-spin" /> 
-            : <Search className="w-5 h-5 text-gray-400" />
-          }
-        </ComboboxButton>
       </div>
 
       {/* Dropdown List */}

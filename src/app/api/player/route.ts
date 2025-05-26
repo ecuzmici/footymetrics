@@ -54,7 +54,7 @@ export async function GET(request: NextRequest) {
         image_path
       )
     `)
-    .ilike('name', `%${name}%`)
+    .ilike('display_name', `%${name}%`)
     .limit(limit)
 
   if (error) {
