@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  width="64" height="64" viewBox="0 0 16 16"
+>
+  <!-- Round background -->
+  <circle cx="8" cy="8" r="8" fill="#1f2937"/>
+
+  <!-- Stat bars (indigo) -->
+  <rect x="4"  y="8" width="2" height="4" fill="#60A5FA"/>
+  <rect x="7"  y="6"  width="2" height="6" fill="#60A5FA"/>
+  <rect x="10" y="4"  width="2" height="8" fill="#60A5FA"/>
+
+  <text 
+    x="5" y="5"
+    font-family="sans-serif"
+    font-size="3"
+    text-anchor="middle"
+    fill="#F3F4F6"
+  >
+    ⚽
+  </text>
+</svg>
