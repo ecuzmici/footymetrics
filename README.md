@@ -9,7 +9,8 @@ FootyMetrics is a Next.js app for exploring one-season football player statistic
 - shadcn-UI component library  
 - Headless UI Combobox for searchable dropdowns  
 - React Query for data fetching and caching  
-- Supabase (Postgres) as the backend and auth provider  
+- Supabase (Postgres) as the backend 
+- Sportmonks API for the data
 - Recharts for radar chart visualization  
 - ESLint & Prettier for code quality and formatting  
 
@@ -22,8 +23,8 @@ FootyMetrics is a Next.js app for exploring one-season football player statistic
 
 ## Getting Started
 1. **Clone the repo**  
-git clone https://github.com/ecuzmici/sportmonks-stats.git
-cd sportmonks-stats
+git clone https://github.com/ecuzmici/footymetrics.git
+cd footymetrics
 
 2. **Install dependencies**  
 npm install
