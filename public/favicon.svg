@@ -12,7 +12,7 @@
   <rect x="10" y="4"  width="2" height="8" fill="#60A5FA"/>
 
   <text 
-    x="5" y="5"
+    x="4" y="6"
     font-family="sans-serif"
     font-size="3"
     text-anchor="middle"
